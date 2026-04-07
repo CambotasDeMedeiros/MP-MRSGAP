@@ -1,0 +1,5342 @@
+TOTAL REVENUE: 195.50839
+Service 1: 3, 5, 9, 10, 		58/46
+Service 2: 1, 2, 4, 7, 		52/42
+Service 3: 6, 8, 		22/47
+
+
+REQUEST		ALLOCATION	RE-ALLOCAATION	SCENARIO
+10		1		2		1
+2		2		3		1
+10		1		2		5
+2		2		3		5
+10		1		2		9
+2		2		3		9
+10		1		2		10
+2		2		3		10
+10		1		2		11
+2		2		3		11
+10		1		2		12
+2		2		3		12
+10		1		2		13
+2		2		3		13
+10		1		2		14
+2		2		3		14
+10		1		2		15
+2		2		3		15
+10		1		2		16
+2		2		3		16
+10		1		2		17
+7		2		3		17
+10		1		2		18
+7		2		3		18
+10		1		2		19
+7		2		3		19
+10		1		2		20
+7		2		3		20
+10		1		2		21
+4		2		3		21
+10		1		2		22
+4		2		3		22
+10		1		2		23
+4		2		3		23
+10		1		2		24
+4		2		3		24
+10		1		2		25
+1		2		3		25
+10		1		2		26
+1		2		3		26
+10		1		2		27
+1		2		3		27
+10		1		2		28
+1		2		3		28
+10		1		2		29
+10		1		2		30
+10		1		2		31
+10		1		2		32
+10		1		2		33
+10		1		2		34
+10		1		2		35
+10		1		2		36
+10		1		2		37
+10		1		2		38
+10		1		2		39
+10		1		2		40
+10		1		2		41
+10		1		2		42
+10		1		2		43
+10		1		2		44
+10		1		2		45
+10		1		2		46
+10		1		2		47
+10		1		2		48
+10		1		2		49
+10		1		2		50
+10		1		2		51
+10		1		2		52
+10		1		2		53
+10		1		2		54
+10		1		2		55
+10		1		2		56
+10		1		2		57
+10		1		2		58
+10		1		2		59
+10		1		2		60
+10		1		2		61
+10		1		2		62
+10		1		2		63
+10		1		2		64
+7		2		3		65
+7		2		3		66
+7		2		3		67
+7		2		3		68
+7		2		3		69
+7		2		3		70
+7		2		3		71
+7		2		3		72
+7		2		3		129
+7		2		3		130
+7		2		3		131
+7		2		3		132
+7		2		3		133
+7		2		3		134
+7		2		3		135
+7		2		3		136
+7		2		3		193
+7		2		3		194
+7		2		3		195
+7		2		3		196
+7		2		3		197
+7		2		3		198
+7		2		3		199
+7		2		3		200
+7		2		3		257
+7		2		3		258
+7		2		3		259
+7		2		3		260
+7		2		3		261
+7		2		3		262
+7		2		3		263
+7		2		3		264
+7		2		3		321
+7		2		3		322
+7		2		3		323
+7		2		3		324
+7		2		3		325
+7		2		3		326
+7		2		3		327
+7		2		3		328
+7		2		3		385
+7		2		3		386
+7		2		3		387
+7		2		3		388
+7		2		3		389
+7		2		3		390
+7		2		3		391
+7		2		3		392
+7		2		3		449
+7		2		3		450
+7		2		3		451
+7		2		3		452
+7		2		3		453
+7		2		3		454
+7		2		3		455
+7		2		3		456
+7		2		3		513
+7		2		3		514
+7		2		3		515
+7		2		3		516
+7		2		3		517
+7		2		3		518
+7		2		3		519
+7		2		3		520
+7		2		3		577
+7		2		3		578
+7		2		3		579
+7		2		3		580
+7		2		3		581
+7		2		3		582
+7		2		3		583
+7		2		3		584
+7		2		3		641
+7		2		3		642
+7		2		3		643
+7		2		3		644
+7		2		3		645
+7		2		3		646
+7		2		3		647
+7		2		3		648
+7		2		3		705
+7		2		3		706
+7		2		3		707
+7		2		3		708
+7		2		3		709
+7		2		3		710
+7		2		3		711
+7		2		3		712
+7		2		3		769
+7		2		3		770
+7		2		3		771
+7		2		3		772
+7		2		3		773
+7		2		3		774
+7		2		3		775
+7		2		3		776
+7		2		3		833
+7		2		3		834
+7		2		3		835
+7		2		3		836
+7		2		3		837
+7		2		3		838
+7		2		3		839
+7		2		3		840
+7		2		3		897
+7		2		3		898
+7		2		3		899
+7		2		3		900
+7		2		3		901
+7		2		3		902
+7		2		3		903
+7		2		3		904
+7		2		3		961
+7		2		3		962
+7		2		3		963
+7		2		3		964
+7		2		3		965
+7		2		3		966
+7		2		3		967
+7		2		3		968
+10		1		2		6
+2		2		3		6
+10		1		2		7
+2		2		3		7
+10		1		2		8
+2		2		3		8
+10		1		2		2
+2		2		3		2
+10		1		2		3
+2		2		3		3
+10		1		2		4
+2		2		3		4
+
+
+SCENARIOS DETAILS
+Scenario 1: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 2: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 3: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 4: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 5: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 6: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 7: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 8: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 9: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 10: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 11: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 12: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 13: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 14: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 15: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 16: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 17: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 18: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 19: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 20: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 21: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 22: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 23: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 24: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 25: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 26: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 27: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 28: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 29: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 30: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 31: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 32: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 33: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 34: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 35: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 36: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 37: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 38: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 39: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 40: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 41: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 42: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 43: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 44: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 45: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 46: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 47: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 48: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 49: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 50: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 51: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 52: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 53: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 54: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 55: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 56: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 57: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 58: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 59: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 60: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 61: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 62: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 63: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 64: 
+	Transport 1: 3 5 9 10 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 65: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 66: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 67: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 68: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 69: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 70: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 71: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 72: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 73: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 74: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 75: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 76: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 77: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 78: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 79: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 80: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 81: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 82: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 83: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 84: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 85: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 86: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 87: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 88: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 89: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 90: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 91: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 92: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 93: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 94: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 95: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 96: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 97: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 98: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 99: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 100: 
+	Transport 1: 3 9 10 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 101: 
+	Transport 1: 3 9 10 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 102: 
+	Transport 1: 3 9 10 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 103: 
+	Transport 1: 3 9 10 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 104: 
+	Transport 1: 3 9 10 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 105: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 106: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 107: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 108: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 109: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 110: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 111: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 112: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 113: 
+	Transport 1: 3 9 10 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 114: 
+	Transport 1: 3 9 10 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 115: 
+	Transport 1: 3 9 10 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 116: 
+	Transport 1: 3 9 10 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 117: 
+	Transport 1: 3 9 10 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 118: 
+	Transport 1: 3 9 10 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 119: 
+	Transport 1: 3 9 10 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 120: 
+	Transport 1: 3 9 10 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 121: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 122: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 123: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 124: 
+	Transport 1: 3 9 10 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 125: 
+	Transport 1: 3 9 10 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 126: 
+	Transport 1: 3 9 10 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 127: 
+	Transport 1: 3 9 10 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 128: 
+	Transport 1: 3 9 10 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 129: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 130: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 131: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 132: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 133: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 134: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 135: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 136: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 137: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 138: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 139: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 140: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 141: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 142: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 143: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 144: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 145: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 146: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 147: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 148: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 149: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 150: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 151: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 152: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 153: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 154: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 155: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 156: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 157: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 158: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 159: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 160: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 161: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 162: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 163: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 164: 
+	Transport 1: 3 5 9 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 165: 
+	Transport 1: 3 5 9 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 166: 
+	Transport 1: 3 5 9 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 167: 
+	Transport 1: 3 5 9 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 168: 
+	Transport 1: 3 5 9 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 169: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 170: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 171: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 172: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 173: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 174: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 175: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 176: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 177: 
+	Transport 1: 3 5 9 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 178: 
+	Transport 1: 3 5 9 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 179: 
+	Transport 1: 3 5 9 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 180: 
+	Transport 1: 3 5 9 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 181: 
+	Transport 1: 3 5 9 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 182: 
+	Transport 1: 3 5 9 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 183: 
+	Transport 1: 3 5 9 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 184: 
+	Transport 1: 3 5 9 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 185: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 186: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 187: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 188: 
+	Transport 1: 3 5 9 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 189: 
+	Transport 1: 3 5 9 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 190: 
+	Transport 1: 3 5 9 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 191: 
+	Transport 1: 3 5 9 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 192: 
+	Transport 1: 3 5 9 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 193: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 194: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 195: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 196: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 197: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 198: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 199: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 200: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 201: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 202: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 203: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 204: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 205: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 206: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 207: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 208: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 209: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 210: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 211: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 212: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 213: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 214: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 215: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 216: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 217: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 218: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 219: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 220: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 221: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 222: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 223: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 224: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 225: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 226: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 227: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 228: 
+	Transport 1: 5 9 10 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 229: 
+	Transport 1: 5 9 10 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 230: 
+	Transport 1: 5 9 10 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 231: 
+	Transport 1: 5 9 10 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 232: 
+	Transport 1: 5 9 10 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 233: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 234: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 235: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 236: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 237: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 238: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 239: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 240: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 241: 
+	Transport 1: 5 9 10 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 242: 
+	Transport 1: 5 9 10 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 243: 
+	Transport 1: 5 9 10 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 244: 
+	Transport 1: 5 9 10 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 245: 
+	Transport 1: 5 9 10 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 246: 
+	Transport 1: 5 9 10 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 247: 
+	Transport 1: 5 9 10 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 248: 
+	Transport 1: 5 9 10 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 249: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 250: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 251: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 252: 
+	Transport 1: 5 9 10 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 253: 
+	Transport 1: 5 9 10 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 254: 
+	Transport 1: 5 9 10 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 255: 
+	Transport 1: 5 9 10 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 256: 
+	Transport 1: 5 9 10 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 257: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 258: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 259: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 260: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 261: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 262: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 263: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 264: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 265: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 266: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 267: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 268: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 269: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 270: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 271: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 272: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 273: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 274: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 275: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 276: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 277: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 278: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 279: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 280: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 281: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 282: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 283: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 284: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 285: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 286: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 287: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 288: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 289: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 290: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 291: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 292: 
+	Transport 1: 3 5 10 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 293: 
+	Transport 1: 3 5 10 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 294: 
+	Transport 1: 3 5 10 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 295: 
+	Transport 1: 3 5 10 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 296: 
+	Transport 1: 3 5 10 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 297: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 298: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 299: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 300: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 301: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 302: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 303: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 304: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 305: 
+	Transport 1: 3 5 10 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 306: 
+	Transport 1: 3 5 10 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 307: 
+	Transport 1: 3 5 10 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 308: 
+	Transport 1: 3 5 10 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 309: 
+	Transport 1: 3 5 10 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 310: 
+	Transport 1: 3 5 10 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 311: 
+	Transport 1: 3 5 10 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 312: 
+	Transport 1: 3 5 10 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 313: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 314: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 315: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 316: 
+	Transport 1: 3 5 10 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 317: 
+	Transport 1: 3 5 10 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 318: 
+	Transport 1: 3 5 10 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 319: 
+	Transport 1: 3 5 10 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 320: 
+	Transport 1: 3 5 10 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 321: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 322: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 323: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 324: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 325: 
+	Transport 1: 3 9 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 326: 
+	Transport 1: 3 9 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 327: 
+	Transport 1: 3 9 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 328: 
+	Transport 1: 3 9 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 329: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 330: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 331: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 332: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 333: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 334: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 335: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 336: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 337: 
+	Transport 1: 3 9 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 338: 
+	Transport 1: 3 9 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 339: 
+	Transport 1: 3 9 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 340: 
+	Transport 1: 3 9 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 341: 
+	Transport 1: 3 9 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 342: 
+	Transport 1: 3 9 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 343: 
+	Transport 1: 3 9 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 344: 
+	Transport 1: 3 9 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 345: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 346: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 347: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 348: 
+	Transport 1: 3 9 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 349: 
+	Transport 1: 3 9 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 350: 
+	Transport 1: 3 9 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 351: 
+	Transport 1: 3 9 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 352: 
+	Transport 1: 3 9 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 353: 
+	Transport 1: 3 9 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 354: 
+	Transport 1: 3 9 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 355: 
+	Transport 1: 3 9 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 356: 
+	Transport 1: 3 9 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 357: 
+	Transport 1: 3 9 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 358: 
+	Transport 1: 3 9 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 359: 
+	Transport 1: 3 9 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 360: 
+	Transport 1: 3 9 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 361: 
+	Transport 1: 3 9 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 362: 
+	Transport 1: 3 9 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 363: 
+	Transport 1: 3 9 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 364: 
+	Transport 1: 3 9 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 365: 
+	Transport 1: 3 9 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 366: 
+	Transport 1: 3 9 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 367: 
+	Transport 1: 3 9 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 368: 
+	Transport 1: 3 9 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 369: 
+	Transport 1: 3 9 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 370: 
+	Transport 1: 3 9 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 371: 
+	Transport 1: 3 9 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 372: 
+	Transport 1: 3 9 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 373: 
+	Transport 1: 3 9 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 374: 
+	Transport 1: 3 9 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 375: 
+	Transport 1: 3 9 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 376: 
+	Transport 1: 3 9 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 377: 
+	Transport 1: 3 9 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 378: 
+	Transport 1: 3 9 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 379: 
+	Transport 1: 3 9 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 380: 
+	Transport 1: 3 9 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 381: 
+	Transport 1: 3 9 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 382: 
+	Transport 1: 3 9 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 383: 
+	Transport 1: 3 9 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 384: 
+	Transport 1: 3 9 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 385: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 386: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 387: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 388: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 389: 
+	Transport 1: 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 390: 
+	Transport 1: 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 391: 
+	Transport 1: 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 392: 
+	Transport 1: 9 10 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 393: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 394: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 395: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 396: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 397: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 398: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 399: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 400: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 401: 
+	Transport 1: 9 10 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 402: 
+	Transport 1: 9 10 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 403: 
+	Transport 1: 9 10 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 404: 
+	Transport 1: 9 10 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 405: 
+	Transport 1: 9 10 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 406: 
+	Transport 1: 9 10 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 407: 
+	Transport 1: 9 10 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 408: 
+	Transport 1: 9 10 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 409: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 410: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 411: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 412: 
+	Transport 1: 9 10 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 413: 
+	Transport 1: 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 414: 
+	Transport 1: 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 415: 
+	Transport 1: 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 416: 
+	Transport 1: 9 10 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 417: 
+	Transport 1: 9 10 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 418: 
+	Transport 1: 9 10 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 419: 
+	Transport 1: 9 10 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 420: 
+	Transport 1: 9 10 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 421: 
+	Transport 1: 9 10 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 422: 
+	Transport 1: 9 10 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 423: 
+	Transport 1: 9 10 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 424: 
+	Transport 1: 9 10 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 425: 
+	Transport 1: 9 10 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 426: 
+	Transport 1: 9 10 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 427: 
+	Transport 1: 9 10 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 428: 
+	Transport 1: 9 10 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 429: 
+	Transport 1: 9 10 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 430: 
+	Transport 1: 9 10 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 431: 
+	Transport 1: 9 10 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 432: 
+	Transport 1: 9 10 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 433: 
+	Transport 1: 9 10 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 434: 
+	Transport 1: 9 10 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 435: 
+	Transport 1: 9 10 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 436: 
+	Transport 1: 9 10 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 437: 
+	Transport 1: 9 10 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 438: 
+	Transport 1: 9 10 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 439: 
+	Transport 1: 9 10 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 440: 
+	Transport 1: 9 10 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 441: 
+	Transport 1: 9 10 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 442: 
+	Transport 1: 9 10 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 443: 
+	Transport 1: 9 10 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 444: 
+	Transport 1: 9 10 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 445: 
+	Transport 1: 9 10 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 446: 
+	Transport 1: 9 10 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 447: 
+	Transport 1: 9 10 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 448: 
+	Transport 1: 9 10 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 449: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 450: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 451: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 452: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 453: 
+	Transport 1: 5 9 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 454: 
+	Transport 1: 5 9 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 455: 
+	Transport 1: 5 9 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 456: 
+	Transport 1: 5 9 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 457: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 458: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 459: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 460: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 461: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 462: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 463: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 464: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 465: 
+	Transport 1: 5 9 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 466: 
+	Transport 1: 5 9 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 467: 
+	Transport 1: 5 9 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 468: 
+	Transport 1: 5 9 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 469: 
+	Transport 1: 5 9 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 470: 
+	Transport 1: 5 9 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 471: 
+	Transport 1: 5 9 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 472: 
+	Transport 1: 5 9 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 473: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 474: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 475: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 476: 
+	Transport 1: 5 9 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 477: 
+	Transport 1: 5 9 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 478: 
+	Transport 1: 5 9 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 479: 
+	Transport 1: 5 9 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 480: 
+	Transport 1: 5 9 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 481: 
+	Transport 1: 5 9 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 482: 
+	Transport 1: 5 9 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 483: 
+	Transport 1: 5 9 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 484: 
+	Transport 1: 5 9 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 485: 
+	Transport 1: 5 9 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 486: 
+	Transport 1: 5 9 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 487: 
+	Transport 1: 5 9 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 488: 
+	Transport 1: 5 9 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 489: 
+	Transport 1: 5 9 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 490: 
+	Transport 1: 5 9 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 491: 
+	Transport 1: 5 9 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 492: 
+	Transport 1: 5 9 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 493: 
+	Transport 1: 5 9 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 494: 
+	Transport 1: 5 9 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 495: 
+	Transport 1: 5 9 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 496: 
+	Transport 1: 5 9 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 497: 
+	Transport 1: 5 9 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 498: 
+	Transport 1: 5 9 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 499: 
+	Transport 1: 5 9 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 500: 
+	Transport 1: 5 9 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 501: 
+	Transport 1: 5 9 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 502: 
+	Transport 1: 5 9 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 503: 
+	Transport 1: 5 9 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 504: 
+	Transport 1: 5 9 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 505: 
+	Transport 1: 5 9 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 506: 
+	Transport 1: 5 9 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 507: 
+	Transport 1: 5 9 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 508: 
+	Transport 1: 5 9 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 509: 
+	Transport 1: 5 9 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 510: 
+	Transport 1: 5 9 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 511: 
+	Transport 1: 5 9 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 512: 
+	Transport 1: 5 9 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 513: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 514: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 515: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 516: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 517: 
+	Transport 1: 3 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 518: 
+	Transport 1: 3 10 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 519: 
+	Transport 1: 3 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 520: 
+	Transport 1: 3 10 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 521: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 522: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 523: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 524: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 525: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 526: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 527: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 528: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 529: 
+	Transport 1: 3 10 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 530: 
+	Transport 1: 3 10 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 531: 
+	Transport 1: 3 10 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 532: 
+	Transport 1: 3 10 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 533: 
+	Transport 1: 3 10 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 534: 
+	Transport 1: 3 10 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 535: 
+	Transport 1: 3 10 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 536: 
+	Transport 1: 3 10 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 537: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 538: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 539: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 540: 
+	Transport 1: 3 10 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 541: 
+	Transport 1: 3 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 542: 
+	Transport 1: 3 10 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 543: 
+	Transport 1: 3 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 544: 
+	Transport 1: 3 10 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 545: 
+	Transport 1: 3 10 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 546: 
+	Transport 1: 3 10 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 547: 
+	Transport 1: 3 10 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 548: 
+	Transport 1: 3 10 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 549: 
+	Transport 1: 3 10 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 550: 
+	Transport 1: 3 10 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 551: 
+	Transport 1: 3 10 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 552: 
+	Transport 1: 3 10 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 553: 
+	Transport 1: 3 10 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 554: 
+	Transport 1: 3 10 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 555: 
+	Transport 1: 3 10 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 556: 
+	Transport 1: 3 10 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 557: 
+	Transport 1: 3 10 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 558: 
+	Transport 1: 3 10 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 559: 
+	Transport 1: 3 10 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 560: 
+	Transport 1: 3 10 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 561: 
+	Transport 1: 3 10 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 562: 
+	Transport 1: 3 10 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 563: 
+	Transport 1: 3 10 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 564: 
+	Transport 1: 3 10 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 565: 
+	Transport 1: 3 10 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 566: 
+	Transport 1: 3 10 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 567: 
+	Transport 1: 3 10 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 568: 
+	Transport 1: 3 10 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 569: 
+	Transport 1: 3 10 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 570: 
+	Transport 1: 3 10 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 571: 
+	Transport 1: 3 10 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 572: 
+	Transport 1: 3 10 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 573: 
+	Transport 1: 3 10 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 574: 
+	Transport 1: 3 10 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 575: 
+	Transport 1: 3 10 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 576: 
+	Transport 1: 3 10 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 577: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 578: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 579: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 580: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 581: 
+	Transport 1: 3 5 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 582: 
+	Transport 1: 3 5 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 583: 
+	Transport 1: 3 5 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 584: 
+	Transport 1: 3 5 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 585: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 586: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 587: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 588: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 589: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 590: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 591: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 592: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 593: 
+	Transport 1: 3 5 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 594: 
+	Transport 1: 3 5 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 595: 
+	Transport 1: 3 5 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 596: 
+	Transport 1: 3 5 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 597: 
+	Transport 1: 3 5 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 598: 
+	Transport 1: 3 5 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 599: 
+	Transport 1: 3 5 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 600: 
+	Transport 1: 3 5 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 601: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 602: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 603: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 604: 
+	Transport 1: 3 5 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 605: 
+	Transport 1: 3 5 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 606: 
+	Transport 1: 3 5 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 607: 
+	Transport 1: 3 5 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 608: 
+	Transport 1: 3 5 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 609: 
+	Transport 1: 3 5 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 610: 
+	Transport 1: 3 5 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 611: 
+	Transport 1: 3 5 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 612: 
+	Transport 1: 3 5 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 613: 
+	Transport 1: 3 5 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 614: 
+	Transport 1: 3 5 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 615: 
+	Transport 1: 3 5 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 616: 
+	Transport 1: 3 5 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 617: 
+	Transport 1: 3 5 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 618: 
+	Transport 1: 3 5 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 619: 
+	Transport 1: 3 5 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 620: 
+	Transport 1: 3 5 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 621: 
+	Transport 1: 3 5 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 622: 
+	Transport 1: 3 5 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 623: 
+	Transport 1: 3 5 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 624: 
+	Transport 1: 3 5 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 625: 
+	Transport 1: 3 5 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 626: 
+	Transport 1: 3 5 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 627: 
+	Transport 1: 3 5 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 628: 
+	Transport 1: 3 5 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 629: 
+	Transport 1: 3 5 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 630: 
+	Transport 1: 3 5 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 631: 
+	Transport 1: 3 5 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 632: 
+	Transport 1: 3 5 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 633: 
+	Transport 1: 3 5 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 634: 
+	Transport 1: 3 5 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 635: 
+	Transport 1: 3 5 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 636: 
+	Transport 1: 3 5 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 637: 
+	Transport 1: 3 5 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 638: 
+	Transport 1: 3 5 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 639: 
+	Transport 1: 3 5 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 640: 
+	Transport 1: 3 5 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 641: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 642: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 643: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 644: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 645: 
+	Transport 1: 5 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 646: 
+	Transport 1: 5 10 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 647: 
+	Transport 1: 5 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 648: 
+	Transport 1: 5 10 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 649: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 650: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 651: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 652: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 653: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 654: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 655: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 656: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 657: 
+	Transport 1: 5 10 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 658: 
+	Transport 1: 5 10 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 659: 
+	Transport 1: 5 10 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 660: 
+	Transport 1: 5 10 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 661: 
+	Transport 1: 5 10 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 662: 
+	Transport 1: 5 10 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 663: 
+	Transport 1: 5 10 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 664: 
+	Transport 1: 5 10 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 665: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 666: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 667: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 668: 
+	Transport 1: 5 10 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 669: 
+	Transport 1: 5 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 670: 
+	Transport 1: 5 10 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 671: 
+	Transport 1: 5 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 672: 
+	Transport 1: 5 10 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 673: 
+	Transport 1: 5 10 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 674: 
+	Transport 1: 5 10 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 675: 
+	Transport 1: 5 10 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 676: 
+	Transport 1: 5 10 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 677: 
+	Transport 1: 5 10 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 678: 
+	Transport 1: 5 10 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 679: 
+	Transport 1: 5 10 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 680: 
+	Transport 1: 5 10 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 681: 
+	Transport 1: 5 10 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 682: 
+	Transport 1: 5 10 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 683: 
+	Transport 1: 5 10 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 684: 
+	Transport 1: 5 10 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 685: 
+	Transport 1: 5 10 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 686: 
+	Transport 1: 5 10 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 687: 
+	Transport 1: 5 10 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 688: 
+	Transport 1: 5 10 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 689: 
+	Transport 1: 5 10 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 690: 
+	Transport 1: 5 10 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 691: 
+	Transport 1: 5 10 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 692: 
+	Transport 1: 5 10 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 693: 
+	Transport 1: 5 10 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 694: 
+	Transport 1: 5 10 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 695: 
+	Transport 1: 5 10 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 696: 
+	Transport 1: 5 10 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 697: 
+	Transport 1: 5 10 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 698: 
+	Transport 1: 5 10 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 699: 
+	Transport 1: 5 10 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 700: 
+	Transport 1: 5 10 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 701: 
+	Transport 1: 5 10 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 702: 
+	Transport 1: 5 10 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 703: 
+	Transport 1: 5 10 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 704: 
+	Transport 1: 5 10 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 705: 
+	Transport 1: 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 706: 
+	Transport 1: 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 707: 
+	Transport 1: 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 708: 
+	Transport 1: 9 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 709: 
+	Transport 1: 9 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 710: 
+	Transport 1: 9 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 711: 
+	Transport 1: 9 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 712: 
+	Transport 1: 9 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 713: 
+	Transport 1: 9 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 714: 
+	Transport 1: 9 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 715: 
+	Transport 1: 9 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 716: 
+	Transport 1: 9 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 717: 
+	Transport 1: 9 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 718: 
+	Transport 1: 9 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 719: 
+	Transport 1: 9 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 720: 
+	Transport 1: 9 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 721: 
+	Transport 1: 9 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 722: 
+	Transport 1: 9 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 723: 
+	Transport 1: 9 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 724: 
+	Transport 1: 9 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 725: 
+	Transport 1: 9 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 726: 
+	Transport 1: 9 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 727: 
+	Transport 1: 9 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 728: 
+	Transport 1: 9 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 729: 
+	Transport 1: 9 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 730: 
+	Transport 1: 9 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 731: 
+	Transport 1: 9 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 732: 
+	Transport 1: 9 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 733: 
+	Transport 1: 9 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 734: 
+	Transport 1: 9 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 735: 
+	Transport 1: 9 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 736: 
+	Transport 1: 9 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 737: 
+	Transport 1: 9 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 738: 
+	Transport 1: 9 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 739: 
+	Transport 1: 9 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 740: 
+	Transport 1: 9 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 741: 
+	Transport 1: 9 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 742: 
+	Transport 1: 9 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 743: 
+	Transport 1: 9 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 744: 
+	Transport 1: 9 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 745: 
+	Transport 1: 9 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 746: 
+	Transport 1: 9 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 747: 
+	Transport 1: 9 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 748: 
+	Transport 1: 9 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 749: 
+	Transport 1: 9 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 750: 
+	Transport 1: 9 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 751: 
+	Transport 1: 9 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 752: 
+	Transport 1: 9 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 753: 
+	Transport 1: 9 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 754: 
+	Transport 1: 9 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 755: 
+	Transport 1: 9 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 756: 
+	Transport 1: 9 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 757: 
+	Transport 1: 9 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 758: 
+	Transport 1: 9 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 759: 
+	Transport 1: 9 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 760: 
+	Transport 1: 9 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 761: 
+	Transport 1: 9 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 762: 
+	Transport 1: 9 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 763: 
+	Transport 1: 9 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 764: 
+	Transport 1: 9 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 765: 
+	Transport 1: 9 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 766: 
+	Transport 1: 9 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 767: 
+	Transport 1: 9 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 768: 
+	Transport 1: 9 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 769: 
+	Transport 1: 3 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 770: 
+	Transport 1: 3 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 771: 
+	Transport 1: 3 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 772: 
+	Transport 1: 3 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 773: 
+	Transport 1: 3 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 774: 
+	Transport 1: 3 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 775: 
+	Transport 1: 3 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 776: 
+	Transport 1: 3 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 777: 
+	Transport 1: 3 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 778: 
+	Transport 1: 3 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 779: 
+	Transport 1: 3 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 780: 
+	Transport 1: 3 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 781: 
+	Transport 1: 3 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 782: 
+	Transport 1: 3 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 783: 
+	Transport 1: 3 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 784: 
+	Transport 1: 3 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 785: 
+	Transport 1: 3 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 786: 
+	Transport 1: 3 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 787: 
+	Transport 1: 3 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 788: 
+	Transport 1: 3 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 789: 
+	Transport 1: 3 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 790: 
+	Transport 1: 3 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 791: 
+	Transport 1: 3 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 792: 
+	Transport 1: 3 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 793: 
+	Transport 1: 3 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 794: 
+	Transport 1: 3 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 795: 
+	Transport 1: 3 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 796: 
+	Transport 1: 3 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 797: 
+	Transport 1: 3 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 798: 
+	Transport 1: 3 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 799: 
+	Transport 1: 3 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 800: 
+	Transport 1: 3 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 801: 
+	Transport 1: 3 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 802: 
+	Transport 1: 3 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 803: 
+	Transport 1: 3 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 804: 
+	Transport 1: 3 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 805: 
+	Transport 1: 3 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 806: 
+	Transport 1: 3 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 807: 
+	Transport 1: 3 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 808: 
+	Transport 1: 3 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 809: 
+	Transport 1: 3 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 810: 
+	Transport 1: 3 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 811: 
+	Transport 1: 3 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 812: 
+	Transport 1: 3 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 813: 
+	Transport 1: 3 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 814: 
+	Transport 1: 3 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 815: 
+	Transport 1: 3 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 816: 
+	Transport 1: 3 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 817: 
+	Transport 1: 3 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 818: 
+	Transport 1: 3 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 819: 
+	Transport 1: 3 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 820: 
+	Transport 1: 3 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 821: 
+	Transport 1: 3 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 822: 
+	Transport 1: 3 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 823: 
+	Transport 1: 3 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 824: 
+	Transport 1: 3 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 825: 
+	Transport 1: 3 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 826: 
+	Transport 1: 3 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 827: 
+	Transport 1: 3 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 828: 
+	Transport 1: 3 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 829: 
+	Transport 1: 3 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 830: 
+	Transport 1: 3 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 831: 
+	Transport 1: 3 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 832: 
+	Transport 1: 3 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 833: 
+	Transport 1: 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 834: 
+	Transport 1: 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 835: 
+	Transport 1: 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 836: 
+	Transport 1: 10 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 837: 
+	Transport 1: 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 838: 
+	Transport 1: 10 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 839: 
+	Transport 1: 10 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 840: 
+	Transport 1: 10 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 841: 
+	Transport 1: 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 842: 
+	Transport 1: 10 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 843: 
+	Transport 1: 10 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 844: 
+	Transport 1: 10 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 845: 
+	Transport 1: 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 846: 
+	Transport 1: 10 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 847: 
+	Transport 1: 10 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 848: 
+	Transport 1: 10 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 849: 
+	Transport 1: 10 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 850: 
+	Transport 1: 10 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 851: 
+	Transport 1: 10 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 852: 
+	Transport 1: 10 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 853: 
+	Transport 1: 10 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 854: 
+	Transport 1: 10 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 855: 
+	Transport 1: 10 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 856: 
+	Transport 1: 10 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 857: 
+	Transport 1: 10 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 858: 
+	Transport 1: 10 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 859: 
+	Transport 1: 10 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 860: 
+	Transport 1: 10 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 861: 
+	Transport 1: 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 862: 
+	Transport 1: 10 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 863: 
+	Transport 1: 10 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 864: 
+	Transport 1: 10 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 865: 
+	Transport 1: 10 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 866: 
+	Transport 1: 10 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 867: 
+	Transport 1: 10 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 868: 
+	Transport 1: 10 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 869: 
+	Transport 1: 10 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 870: 
+	Transport 1: 10 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 871: 
+	Transport 1: 10 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 872: 
+	Transport 1: 10 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 873: 
+	Transport 1: 10 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 874: 
+	Transport 1: 10 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 875: 
+	Transport 1: 10 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 876: 
+	Transport 1: 10 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 877: 
+	Transport 1: 10 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 878: 
+	Transport 1: 10 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 879: 
+	Transport 1: 10 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 880: 
+	Transport 1: 10 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 881: 
+	Transport 1: 10 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 882: 
+	Transport 1: 10 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 883: 
+	Transport 1: 10 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 884: 
+	Transport 1: 10 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 885: 
+	Transport 1: 10 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 886: 
+	Transport 1: 10 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 887: 
+	Transport 1: 10 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 888: 
+	Transport 1: 10 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 889: 
+	Transport 1: 10 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 890: 
+	Transport 1: 10 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 891: 
+	Transport 1: 10 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 892: 
+	Transport 1: 10 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 893: 
+	Transport 1: 10 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 894: 
+	Transport 1: 10 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 895: 
+	Transport 1: 10 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 896: 
+	Transport 1: 10 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 897: 
+	Transport 1: 5 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 898: 
+	Transport 1: 5 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 899: 
+	Transport 1: 5 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 900: 
+	Transport 1: 5 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 901: 
+	Transport 1: 5 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 902: 
+	Transport 1: 5 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 903: 
+	Transport 1: 5 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 904: 
+	Transport 1: 5 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 905: 
+	Transport 1: 5 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 906: 
+	Transport 1: 5 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 907: 
+	Transport 1: 5 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 908: 
+	Transport 1: 5 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 909: 
+	Transport 1: 5 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 910: 
+	Transport 1: 5 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 911: 
+	Transport 1: 5 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 912: 
+	Transport 1: 5 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 913: 
+	Transport 1: 5 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 914: 
+	Transport 1: 5 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 915: 
+	Transport 1: 5 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 916: 
+	Transport 1: 5 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 917: 
+	Transport 1: 5 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 918: 
+	Transport 1: 5 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 919: 
+	Transport 1: 5 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 920: 
+	Transport 1: 5 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 921: 
+	Transport 1: 5 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 922: 
+	Transport 1: 5 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 923: 
+	Transport 1: 5 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 924: 
+	Transport 1: 5 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 925: 
+	Transport 1: 5 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 926: 
+	Transport 1: 5 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 927: 
+	Transport 1: 5 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 928: 
+	Transport 1: 5 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 929: 
+	Transport 1: 5 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 930: 
+	Transport 1: 5 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 931: 
+	Transport 1: 5 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 932: 
+	Transport 1: 5 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 933: 
+	Transport 1: 5 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 934: 
+	Transport 1: 5 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 935: 
+	Transport 1: 5 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 936: 
+	Transport 1: 5 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 937: 
+	Transport 1: 5 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 938: 
+	Transport 1: 5 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 939: 
+	Transport 1: 5 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 940: 
+	Transport 1: 5 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 941: 
+	Transport 1: 5 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 942: 
+	Transport 1: 5 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 943: 
+	Transport 1: 5 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 944: 
+	Transport 1: 5 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 945: 
+	Transport 1: 5 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 946: 
+	Transport 1: 5 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 947: 
+	Transport 1: 5 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 948: 
+	Transport 1: 5 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 949: 
+	Transport 1: 5 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 950: 
+	Transport 1: 5 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 951: 
+	Transport 1: 5 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 952: 
+	Transport 1: 5 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 953: 
+	Transport 1: 5 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 954: 
+	Transport 1: 5 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 955: 
+	Transport 1: 5 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 956: 
+	Transport 1: 5 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 957: 
+	Transport 1: 5 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 958: 
+	Transport 1: 5 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 959: 
+	Transport 1: 5 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 960: 
+	Transport 1: 5 
+	Transport 2: 
+	Transport 3: 
+
+Scenario 961: 
+	Transport 1: 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 962: 
+	Transport 1: 
+	Transport 2: 1 2 4 7 
+	Transport 3: 8 
+
+Scenario 963: 
+	Transport 1: 
+	Transport 2: 1 2 4 7 
+	Transport 3: 6 
+
+Scenario 964: 
+	Transport 1: 
+	Transport 2: 1 2 4 7 
+	Transport 3: 
+
+Scenario 965: 
+	Transport 1: 
+	Transport 2: 2 4 7 
+	Transport 3: 6 8 
+
+Scenario 966: 
+	Transport 1: 
+	Transport 2: 2 4 7 
+	Transport 3: 8 
+
+Scenario 967: 
+	Transport 1: 
+	Transport 2: 2 4 7 
+	Transport 3: 6 
+
+Scenario 968: 
+	Transport 1: 
+	Transport 2: 2 4 7 
+	Transport 3: 
+
+Scenario 969: 
+	Transport 1: 
+	Transport 2: 1 2 7 
+	Transport 3: 6 8 
+
+Scenario 970: 
+	Transport 1: 
+	Transport 2: 1 2 7 
+	Transport 3: 8 
+
+Scenario 971: 
+	Transport 1: 
+	Transport 2: 1 2 7 
+	Transport 3: 6 
+
+Scenario 972: 
+	Transport 1: 
+	Transport 2: 1 2 7 
+	Transport 3: 
+
+Scenario 973: 
+	Transport 1: 
+	Transport 2: 1 2 4 
+	Transport 3: 6 8 
+
+Scenario 974: 
+	Transport 1: 
+	Transport 2: 1 2 4 
+	Transport 3: 8 
+
+Scenario 975: 
+	Transport 1: 
+	Transport 2: 1 2 4 
+	Transport 3: 6 
+
+Scenario 976: 
+	Transport 1: 
+	Transport 2: 1 2 4 
+	Transport 3: 
+
+Scenario 977: 
+	Transport 1: 
+	Transport 2: 2 7 
+	Transport 3: 6 8 
+
+Scenario 978: 
+	Transport 1: 
+	Transport 2: 2 7 
+	Transport 3: 8 
+
+Scenario 979: 
+	Transport 1: 
+	Transport 2: 2 7 
+	Transport 3: 6 
+
+Scenario 980: 
+	Transport 1: 
+	Transport 2: 2 7 
+	Transport 3: 
+
+Scenario 981: 
+	Transport 1: 
+	Transport 2: 2 4 
+	Transport 3: 6 8 
+
+Scenario 982: 
+	Transport 1: 
+	Transport 2: 2 4 
+	Transport 3: 8 
+
+Scenario 983: 
+	Transport 1: 
+	Transport 2: 2 4 
+	Transport 3: 6 
+
+Scenario 984: 
+	Transport 1: 
+	Transport 2: 2 4 
+	Transport 3: 
+
+Scenario 985: 
+	Transport 1: 
+	Transport 2: 1 2 
+	Transport 3: 6 8 
+
+Scenario 986: 
+	Transport 1: 
+	Transport 2: 1 2 
+	Transport 3: 8 
+
+Scenario 987: 
+	Transport 1: 
+	Transport 2: 1 2 
+	Transport 3: 6 
+
+Scenario 988: 
+	Transport 1: 
+	Transport 2: 1 2 
+	Transport 3: 
+
+Scenario 989: 
+	Transport 1: 
+	Transport 2: 1 4 7 
+	Transport 3: 6 8 
+
+Scenario 990: 
+	Transport 1: 
+	Transport 2: 1 4 7 
+	Transport 3: 8 
+
+Scenario 991: 
+	Transport 1: 
+	Transport 2: 1 4 7 
+	Transport 3: 6 
+
+Scenario 992: 
+	Transport 1: 
+	Transport 2: 1 4 7 
+	Transport 3: 
+
+Scenario 993: 
+	Transport 1: 
+	Transport 2: 2 
+	Transport 3: 6 8 
+
+Scenario 994: 
+	Transport 1: 
+	Transport 2: 2 
+	Transport 3: 8 
+
+Scenario 995: 
+	Transport 1: 
+	Transport 2: 2 
+	Transport 3: 6 
+
+Scenario 996: 
+	Transport 1: 
+	Transport 2: 2 
+	Transport 3: 
+
+Scenario 997: 
+	Transport 1: 
+	Transport 2: 4 7 
+	Transport 3: 6 8 
+
+Scenario 998: 
+	Transport 1: 
+	Transport 2: 4 7 
+	Transport 3: 8 
+
+Scenario 999: 
+	Transport 1: 
+	Transport 2: 4 7 
+	Transport 3: 6 
+
+Scenario 1000: 
+	Transport 1: 
+	Transport 2: 4 7 
+	Transport 3: 
+
+Scenario 1001: 
+	Transport 1: 
+	Transport 2: 1 7 
+	Transport 3: 6 8 
+
+Scenario 1002: 
+	Transport 1: 
+	Transport 2: 1 7 
+	Transport 3: 8 
+
+Scenario 1003: 
+	Transport 1: 
+	Transport 2: 1 7 
+	Transport 3: 6 
+
+Scenario 1004: 
+	Transport 1: 
+	Transport 2: 1 7 
+	Transport 3: 
+
+Scenario 1005: 
+	Transport 1: 
+	Transport 2: 1 4 
+	Transport 3: 6 8 
+
+Scenario 1006: 
+	Transport 1: 
+	Transport 2: 1 4 
+	Transport 3: 8 
+
+Scenario 1007: 
+	Transport 1: 
+	Transport 2: 1 4 
+	Transport 3: 6 
+
+Scenario 1008: 
+	Transport 1: 
+	Transport 2: 1 4 
+	Transport 3: 
+
+Scenario 1009: 
+	Transport 1: 
+	Transport 2: 7 
+	Transport 3: 6 8 
+
+Scenario 1010: 
+	Transport 1: 
+	Transport 2: 7 
+	Transport 3: 8 
+
+Scenario 1011: 
+	Transport 1: 
+	Transport 2: 7 
+	Transport 3: 6 
+
+Scenario 1012: 
+	Transport 1: 
+	Transport 2: 7 
+	Transport 3: 
+
+Scenario 1013: 
+	Transport 1: 
+	Transport 2: 4 
+	Transport 3: 6 8 
+
+Scenario 1014: 
+	Transport 1: 
+	Transport 2: 4 
+	Transport 3: 8 
+
+Scenario 1015: 
+	Transport 1: 
+	Transport 2: 4 
+	Transport 3: 6 
+
+Scenario 1016: 
+	Transport 1: 
+	Transport 2: 4 
+	Transport 3: 
+
+Scenario 1017: 
+	Transport 1: 
+	Transport 2: 1 
+	Transport 3: 6 8 
+
+Scenario 1018: 
+	Transport 1: 
+	Transport 2: 1 
+	Transport 3: 8 
+
+Scenario 1019: 
+	Transport 1: 
+	Transport 2: 1 
+	Transport 3: 6 
+
+Scenario 1020: 
+	Transport 1: 
+	Transport 2: 1 
+	Transport 3: 
+
+Scenario 1021: 
+	Transport 1: 
+	Transport 2: 
+	Transport 3: 6 8 
+
+Scenario 1022: 
+	Transport 1: 
+	Transport 2: 
+	Transport 3: 8 
+
+Scenario 1023: 
+	Transport 1: 
+	Transport 2: 
+	Transport 3: 6 
+
+Scenario 1024: 
+	Transport 1: 
+	Transport 2: 
+	Transport 3: 
+
