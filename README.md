@@ -1,6 +1,6 @@
-# Allocation and Reallocation a Freight Overbooking Problem - a Logic Based Benders Decomposition Approach
+# Multi-Period Multi-Resource Stochastic Generalized Assignment Problem - Exact Approach
 
-This project aims to solve an Allocation and Reallocation Problem, given an initial allocation recourse decisions can be made based on the revealed future. This project applies to a particular version of the Allocation and Reallocation Problem, where the uncertainty depends directly on the intial decision.
+This project aims to solve the Multi-Period Multi-Resource Stochastic Generalized Assignment Problem (MP-MRSGAP) by using a Nested Logic-Based Benders Decomposition (NLBBD). The problem consists formulates an assignment in a multi-period setting and in two stages – a planning stage where all agents are included and a recourse stage for each period. During the planning stage, jobs are assigned to agents, and the model allows resource assignments to exceed the resources available to each agent. Depending on the realization of the uncertainty, in the second stage, a recourse decision can be made to re-assign jobs to other agents
 
 ## Algorithm
 
@@ -13,23 +13,27 @@ Step 4. If not optimal, go to Step 1;
 
 /project-root  
 │── src/  
+│ ├── data.cpp  
 │ ├── main.cpp  
-│ ├── SolveProblems.cpp  
-│ ├── GPBD.cpp  
-│ ├── ReadParameters.cpp  
-│ └── debugSolveSubproblem.cpp  
+│ ├── mainAlgorithm.cpp  
+│ ├── preprocessing.cpp  
+│ └── solveProblems.cpp  
 |  
 │ │── include/  
-│ ├── ReadParameters.h  
-│ ├── SolveProblems.h  
-│ └── GPBD.h  
+│ ├── data.h  
+│ ├── mainAlgorithm.h  
+│ ├── preprocessing.h  
+│ └── solveProblems.h  
 |  
 │ │── instances/  
-│ ├── problemdata1.dat  
-│ └── problemdata2.dat  
+│ └── benchmark_3_10_1-2.dat  
 |  
-│ │── solutions/  
-│ └── solution.txt  
+│ │── output/  
+│ │── benchmark_3_10_1-2/  
+│ ├── Bounds_benchmark_3_10_1-2.txt
+│ ├── FinalSolution_benchmark_3_10_1-2.txt
+│ ├── SolutionHardCapacity_benchmark_3_10_1-2.txt
+│ └── SolutionSummary_benchmark_3_10_1-2.txt
 |  
 | │── README.md
 
@@ -83,18 +87,15 @@ Step 4. If not optimal, go to Step 1;
 
 ## Instances Parameters
 
-nN - Number of high-capcity transport services;  
-nR - Number of requests;  
-a - revenue per booked container;  
-b - cost overbooking per container;  
-c - cost of re-allocation per container;  
-d - cost of using truck;  
-e - cost of underbooking per container;  
-Q - vector of size nN, capacity of each transport service;  
-q - vector of size nR, number of containers per request;  
-p - vector of size nR, probability of request arrive on time;  
-t - vector of size nR, to which high-capcity transport service each request was allocated to. If 0, not allocated. If 1 < = t_r <= nN, request allcoated to corresponding high-capcity transport service;  
-theta - matrix of size nN x nR, if request can be allocated or re-allocated to high-cacity transport service.
+nN - Number of agents;  
+nR - Number of requests;
+nR - Number of resoruces;  
+a - revenue assigning request r to agent i;  
+c - cost of reassigned of request r from agent i to agent j;  
+Q - total resources available of type h in agent i;  
+q - resources of type h of request r;  
+p - probability of request r materializing;  
+t - initial assingment solution;
 
 ## Navigation the Tree (Fast-Forward Heuristic)
 
@@ -110,7 +111,6 @@ theta - matrix of size nN x nR, if request can be allocated or re-allocated to h
   Move to the previous subproblems.
 
 - **All child solutions unchanged:**
-
   - If child subproblems are at the first level, return to the **MasterProblem**.
   - Otherwise, return to the previous subproblems.
 
